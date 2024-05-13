@@ -16,7 +16,7 @@ h1, p {
 	font-family: "Montserrat", sans-serif;
 	font-weight: 900;
 	font-style: normal;
-	
+	color: floralwhite;
 }
 
 /* ID Selector */
@@ -40,3 +40,6 @@ body {
 
 }
 
+#link {
+	margin: 20px;
+}
